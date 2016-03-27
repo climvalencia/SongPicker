@@ -10,7 +10,7 @@ You can take a look at the choices file to see the probability of each song to b
 
 Usage
 =====
-```python
+```shell
 $> python song_picker.py pick 3
 ['Boston - More than a Feeling',
  'Red Hot Chili Peppers - Californication',
